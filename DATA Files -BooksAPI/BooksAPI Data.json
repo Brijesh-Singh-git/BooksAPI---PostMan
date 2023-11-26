@@ -1,0 +1,22 @@
+[
+ {
+   "BookID": 1,
+   "CustomerName": "Rohan Das "
+ },
+ {
+   "BookID": 1,
+   "CustomerName": "Brijesh Singh"
+ },
+ {
+   "BookID": 3,
+   "CustomerName": "David Guetta"
+ },
+ {
+   "BookID": 4,
+   "CustomerName": "Priya Rajput"
+ },
+ {
+   "BookID": 6,
+   "CustomerName": "Deepanshi Aneja"
+ }
+]
